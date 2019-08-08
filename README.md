@@ -11,8 +11,12 @@ This repository is used to tracking issues and suggestions (and their
 related conversation) related to the Commonalities.
 
 Repositories for FDSN web services:
+
 [fdsnws-dataselect - https://github.com/FDSN/fdsnws-dataselect/](https://github.com/FDSN/fdsnws-dataselect)
+
 [fdsnws-station - https://github.com/FDSN/fdsnws-station/](https://github.com/FDSN/fdsnws-station)
+
 [fdsnws-event - https://github.com/FDSN/fdsnws-event/](https://github.com/FDSN/fdsnws-event)
+
 [fdsnws-availability - https://github.com/FDSN/fdsnws-availability/](https://github.com/FDSN/fdsnws-availability)
 
